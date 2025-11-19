@@ -1,2 +1,3 @@
 # Bhaskar-group
-Bhaskar repository
+This is Bhaskar  repository
+Author-Kamal bhaskar
